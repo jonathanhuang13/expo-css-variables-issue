@@ -8,6 +8,6 @@
   }
 
   .dark:root {
-    --primary2: theme('colors.blue.500');
+    --primary: theme('colors.blue.500');
   }
 }
